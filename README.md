@@ -1,16 +1,10 @@
-# weather_app
+ using the OpenWeatherMap API. The app fetches live data such as temperature, humidity, and weather conditions (e.g., clear, cloudy, rainy).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+📍 Lahore Weather: Focuses on displaying the weather of Lahore.
+🌡️ Real-Time Data: Retrieves up-to-date weather details from the OpenWeatherMap API.
+📱 Cross-Platform: Built with Flutter for both Android and iOS.
+Technologies:
+Flutter & Dart
+OpenWeatherMap API
+This is a simple yet effective app for practicing API integration with Flutter.
