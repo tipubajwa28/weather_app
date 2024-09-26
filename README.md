@@ -9,7 +9,7 @@ Key Features:
 
 🌡️ Real-Time Data: Retrieves up-to-date weather details from the OpenWeatherMap API.
 
-📱 Cross-Platform: Built with Flutter for both Android and iOS.
+📱 Platform: Built with Flutter for Android.
 
 Technologies:
 
