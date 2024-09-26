@@ -1,4 +1,5 @@
- using the OpenWeatherMap API. The app fetches live data such as temperature, humidity, and weather conditions (e.g., clear, cloudy, rainy).
+Flutter Weather App - Lahore City 🌤️
+This is a demo Flutter app that shows real-time weather updates for Lahore, Pakistan, using the OpenWeatherMap API. The app fetches live data such as temperature, humidity, and weather conditions (e.g., clear, cloudy, rainy).
 
 Key Features:
 📍 Lahore Weather: Focuses on displaying the weather of Lahore.
